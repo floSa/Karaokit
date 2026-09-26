@@ -7,6 +7,48 @@
     "wordLevel": true
   },
   {
+    "slug": "arcade-fire-creature-comfort",
+    "title": "Creature Comfort",
+    "artist": "Arcade Fire",
+    "hasLyrics": true,
+    "wordLevel": true
+  },
+  {
+    "slug": "arcade-fire-everything-now",
+    "title": "Everything Now",
+    "artist": "Arcade Fire",
+    "hasLyrics": true,
+    "wordLevel": true
+  },
+  {
+    "slug": "arcade-fire-everything_now-continued",
+    "title": "Everything_Now (continued)",
+    "artist": "Arcade Fire",
+    "hasLyrics": true,
+    "wordLevel": true
+  },
+  {
+    "slug": "arcade-fire-peter-pan",
+    "title": "Peter Pan",
+    "artist": "Arcade Fire",
+    "hasLyrics": true,
+    "wordLevel": true
+  },
+  {
+    "slug": "arcade-fire-signs-of-life",
+    "title": "Signs of Life",
+    "artist": "Arcade Fire",
+    "hasLyrics": true,
+    "wordLevel": true
+  },
+  {
+    "slug": "oasis-wonderwall",
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "hasLyrics": true,
+    "wordLevel": true
+  },
+  {
     "slug": "rihanna-sos-album-version",
     "title": "SOS (Album Version)",
     "artist": "Rihanna",
@@ -47,5 +89,12 @@
     "artist": "Sébastien Tellier",
     "hasLyrics": true,
     "wordLevel": true
+  },
+  {
+    "slug": "sebastien-tellier-slow-lynch",
+    "title": "Slow Lynch",
+    "artist": "Sébastien Tellier",
+    "hasLyrics": false,
+    "wordLevel": false
   }
 ]
